@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LeoTube' target in the 'LeoTube' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
